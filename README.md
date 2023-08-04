@@ -1,3 +1,5 @@
+https://www.typescript-training.com/course/fundamentals-v3/01-intro/
+
 # TypeScript Training w/ Mike North
 This repo contains the code for `TypeScript Fundamentals v3` and `Intermediate TypeScript v1`
 
